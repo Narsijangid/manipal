@@ -1,0 +1,2 @@
+# manipal
+manipal university notes 
